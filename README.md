@@ -6,4 +6,4 @@ Details:
 we also assumed that the pixel intensity between an object in the two images is at most contaminated by a small Gaussian noise. 
 I.e., we can use L2 norm as our cost function. 
 
-2. Write from scratch the non-linear optimization algorithm usinng gradient descent. 
+2. Write from scratch the non-linear optimization algorithm using gradient descent. 
